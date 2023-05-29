@@ -1,5 +1,4 @@
 # BotFilms
-Telegram-Bot, designed for view films.
 5. ЭТАПЫ ПОЛЬЗОВАНИЯ:
         5.1. Установка ПО:
 Для начала, нужно установить среду разработки (Visual studio; PyCharm и др.)
